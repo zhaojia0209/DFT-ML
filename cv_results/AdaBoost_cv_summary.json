@@ -1,0 +1,7 @@
+{
+    "best_score": -138.2449850208205,
+    "best_params": {
+        "estimator__learning_rate": 0.2695316722149398,
+        "estimator__n_estimators": 773
+    }
+}

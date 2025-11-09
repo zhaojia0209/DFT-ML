@@ -1,0 +1,8 @@
+{
+    "best_score": -126.41097348916396,
+    "best_params": {
+        "estimator__depth": 4,
+        "estimator__iterations": 690,
+        "estimator__learning_rate": 0.11573883219019082
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "estimator__learning_rate": 0.138828707213667,
+    "estimator__n_estimators": 800,
+    "estimator__num_leaves": 32
+}

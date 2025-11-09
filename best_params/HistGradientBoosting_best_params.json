@@ -1,0 +1,5 @@
+{
+    "estimator__learning_rate": 0.138828707213667,
+    "estimator__max_depth": 7,
+    "estimator__max_iter": 240
+}

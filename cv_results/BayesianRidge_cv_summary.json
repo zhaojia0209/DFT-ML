@@ -1,0 +1,9 @@
+{
+    "best_score": -14.86128341484187,
+    "best_params": {
+        "estimator__alpha_1": 0.004074322225209177,
+        "estimator__alpha_2": 1.3987539039073975e-05,
+        "estimator__lambda_1": 0.0001668976629044501,
+        "estimator__lambda_2": 3.20391494396249e-05
+    }
+}

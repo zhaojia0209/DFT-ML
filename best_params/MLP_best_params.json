@@ -1,0 +1,7 @@
+{
+    "estimator__alpha": 0.003938371882167008,
+    "estimator__hidden_layer_sizes": [
+        30,
+        10
+    ]
+}

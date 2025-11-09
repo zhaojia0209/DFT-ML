@@ -1,0 +1,6 @@
+{
+    "best_score": -383.0223284120116,
+    "best_params": {
+        "estimator__n_neighbors": 4
+    }
+}
