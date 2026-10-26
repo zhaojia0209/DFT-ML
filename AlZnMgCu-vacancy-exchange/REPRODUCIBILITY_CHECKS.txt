@@ -1,0 +1,8 @@
+All 28 free-Cu image records reproduce the saved Fig. 9 tables within 1e-9 angstrom.
+All eight forward DFT barriers match the saved summaries within 1e-9 eV.
+Verified 711 files against the archive's MANIFEST.csv.
+Training/validation/test files match the original v6 workflow byte-for-byte.
+Seed-11 checkpoint SHA-256 matches the original Cu-environment endpoint record.
+Mg direct/far-corrected constraint responses: 48.71694/48.14703 meV.
+Zn direct/far-corrected constraint responses: 15.70439/15.69385 meV.
+These checks reproduce saved structural and energetic tables; they do not rerun training or DFT.

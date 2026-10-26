@@ -1,0 +1,21 @@
+{
+  "release_date": "2026-10-26",
+  "title": "Local Cu geometry modulates vacancy-mediated Mg and Zn exchange in fcc Al",
+  "archive": "AlZnMgCu-vacancy-exchange-data-code.zip",
+  "archive_bytes": 7759013,
+  "archive_sha256": "0abd1ade80da09c1d79177f62ce5c621293183812560380d7cf5cc3c8ce10864",
+  "payload_files": 712,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "verification": {
+    "fig9_images": 28,
+    "fig9_tolerance_angstrom": 1e-9,
+    "dft_paths": 8,
+    "barrier_tolerance_eV": 1e-9,
+    "manifest_payload_files": 711
+  },
+  "scope": "Saved research data and source records; model training and DFT were not rerun."
+}
